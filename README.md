@@ -43,7 +43,7 @@ No momento, estou focando em aprofundar meus conhecimentos em:
 
 ## 📫 Conecte-se Comigo
 
-* **LinkedIn:** https://www.linkedin.com/in/andré-callejão-9b4b60233/
+* **LinkedIn:** https://www.linkedin.com/in/andré-callejão/
 * **Email:** callejaoandre24@gmail.com.
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! Estou sempre aberto a novas conexões e colaborações na área de segurança cibernética e programação full stack.
 
