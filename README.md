@@ -40,6 +40,7 @@ No momento, estou focando em aprofundar meus conhecimentos em:
 
 * **Graduação:** Análise e Desenvolvimento de Sistemas - FIAP (Concluído em 2024)
 * **Cursando:** Cybersecurity - FIAP (Previsão de Conclusão: dez/2025)
+* **Graduado**  Red Hat System Administration - RED HAT ACADEMY
 
 ## 📫 Conecte-se Comigo
 
