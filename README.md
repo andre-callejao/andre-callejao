@@ -1,4 +1,4 @@
-# Olá! 👋 Bem-vindo(a) ao meu perfil GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=1000&color=00F71E&background=272727&width=700&height=70&lines=Ol%C3%A1%2C+me+chamo+Andr%C3%A9+Callej%C3%A3o.)](https://git.io/typing-svg)
 
 ## 🧑‍💻 Sobre Mim
 
